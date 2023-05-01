@@ -1,0 +1,21 @@
+body {
+  background-color: #dad2d2;
+  width: 100%;
+  margin: 0;
+  /*display: flex;*/
+  padding: 0;
+  height: 100vh;
+}
+
+a {
+  font-weight: 500;
+  font-size: 1.5em;
+  padding: 10px;
+  color: black;
+  text-decoration: inherit;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
